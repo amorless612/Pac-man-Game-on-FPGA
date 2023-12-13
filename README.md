@@ -1,2 +1,2 @@
 # Game
-A pacman game based on cortex-m0 soc
+A Pac-man Game Based on Cortex-M0 SoC on FPGA
